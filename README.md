@@ -8,6 +8,8 @@ The Morpho APY Calculator analyzes blockchain data to determine the exact return
 
 This calculator connects directly to the blockchain to retrieve all user interactions with a vault, analyzes price-per-share changes between interactions, and provides detailed metrics on investment performance with full numerical precision.
 
+> **Important:** Currently, the calculator only tracks native yield (interest from price-per-share appreciation). Support for external rewards will be added soon!
+
 ## What It Measures
 
 The calculator provides the following key metrics:
