@@ -12,6 +12,8 @@ This calculator connects directly to the blockchain to retrieve all user interac
 
 ## What It Measures
 
+![Morpho APY Calculator Overview](./image/image.png)
+
 The calculator provides the following key metrics:
 
 - **Actual Experienced APY**: Calculates the time-weighted average APY the user has actually earned
