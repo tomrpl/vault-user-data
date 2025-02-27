@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@morpho-org/blue-sdk": "^2.3.1",
+    "dotenv": "^16.4.7",
+    "viem": "^2.23.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "start": "npx ts-node script/overview.ts"
+  }
+}
