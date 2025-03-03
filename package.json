@@ -10,6 +10,8 @@
     "typescript": "^5.3.3"
   },
   "scripts": {
-    "start": "npx ts-node script/overview.ts"
+    "start": "npx ts-node script/overview.ts",
+    "rewards": "npx ts-node script/rewards.ts",
+    "data": "npx ts-node script/data.ts"
   }
 }
