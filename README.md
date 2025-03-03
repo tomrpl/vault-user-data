@@ -21,9 +21,9 @@ A precision tool for tracking and analyzing user performance in Morpho Vaults. T
 | [Usage](#usage)                                       | Instructions for running the analyzer                                                  |
 | [Example Output](#example-output)                     | Sample results from the analyzer (the visualization corresponds to the example output) |
 
-## Important Notes:
+## Important Notes
 
-- Those scripts are for education only.
+- Those scripts are for educational purposes only.
 - It is not expected that the contributor(s) of this repository will be available to provide more support.
 - The mathematical formulas expressed here can be changed and adapted to the needs of the user.
 - The code is not optimized for performance and could be improved.
@@ -227,7 +227,7 @@ The analyzer generates a comprehensive report including:
 - Detailed period-by-period analysis
 - Projected earnings based on current rates
 
-Note: the following example tool a random user on a random Morpho Vault. The results are not indicative of any real user or vault.
+Note: the following example took a random user on a random Morpho Vault.
 
 ```json
 yarn run v1.22.22
