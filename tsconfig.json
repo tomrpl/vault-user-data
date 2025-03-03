@@ -12,6 +12,6 @@
     "outDir": "dist",
     "rootDir": "."
   },
-  "include": ["*.ts", "script/interests.ts"],
+  "include": ["*.ts", "script/interests.ts", "script/types.ts"],
   "exclude": ["node_modules"]
 }
